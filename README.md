@@ -1,4 +1,4 @@
-Hello! I work at a ATE startup designing hardware instruments and the software that drives them. 
+Hello! I work at a ATE startup designing hardware instruments and the software that drives them. @eric-graves-merlin
 
 If I find time to do other code-related projects, you can find them on GitHub.
 
