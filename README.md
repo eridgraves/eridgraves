@@ -1,5 +1,5 @@
-Hello! I work at a ATE startup designing hardware instruments and the software that drives them. [@eric-graves-merlin](https://github.com/eric-graves-merlin)
+Hello! I'm a software engineer at a company designing SSD testers used in engineering and production environments: [Neosem Technology](www.neosem.com)
 
-If I find time to do other code-related projects, you can find them on GitHub.
+If I find time to do other code-related projects, you can find them here on GitHub.
 
 [Here](https://eridgraves.github.io/) is my personal website.
