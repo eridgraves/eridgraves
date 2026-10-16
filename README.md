@@ -1,9 +1,4 @@
-Embedded Software Engineer @ [Qrypt](https://www.qrypt.com/)
-
-Previously:
-- Supporting SoM/SBC products: [Ezurio](https://www.ezurio.com/)
-- Designing automated test equipment for SSDs (and other storage): [Neosem Technology](http://www.neosem.com) 
-- Designing automated test equipment for RF components (FEM, LNA, etc): [Merlin Test Technology](https://www.merlintest.com)
+Embedded Software Engineer
 
 I have worked for 5+ years on microcontroller and embedded linux systems (x86 and ARM), mostly in C/C++, with application work in .NET. I have worked over the entire project lifecycle, and am driven to do good work and improve the systems around me.
 
